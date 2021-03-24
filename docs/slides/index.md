@@ -1,8 +1,10 @@
 <!-- .slide: data-state="layout-title no-fragment"  -->
 
-# The Launch
+![The Launch Logo](images/The-Launch-Icon.png) <!-- .element: style="height: 200px; margin-bottom: 0;" -->
 
-React Hooks, GraphQL and GitHub
+# The Launch<!-- .element: style="margin-top: -50px;" -->
+
+React Hooks, GraphQL and GitHub<!-- .element: style="margin-top: 0" -->
 
 <a class="btn btn-warning text-dark" href="https://raybo.org/slides_thelaunch">raybo.org/slides_thelaunch</a>
 
